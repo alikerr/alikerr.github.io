@@ -28,7 +28,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-hugomod-
       - name: Build
-        run: hugo --minify
+        run: hugo --theme=shadocs --minify
         
      # - name: Deploy
      #   uses: peaceiris/actions-gh-pages@v3
