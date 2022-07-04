@@ -125,11 +125,6 @@ theme                  = "shadocs"
   download = "https://alikerr.github.io/archive/main.zip"
   issue = "https://alikerr.github.io/issues"
   fork = "https://alikerr.github.io/fork"
-  
-#main = "https://github.com/um-grex/grex-docs"
-#download = "https://github.com/um-grex/grex-docs/archive/main.zip"
-#issue = "https://github.com/um-grex/grex-docs/issues"
-#fork = "https://github.com/um-grex/grex-docs/fork"
 
 #================================================================================
 # End of the config file.
