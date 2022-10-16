@@ -2,7 +2,6 @@
 # Standard configuration
 #================================================================================
 
-#baseURL                = "http://um-grex.github.io/grex-docs"
 baseURL                = "https://alikerr.github.io/grex-dev/"
 copyright              = "The MIT License (MIT) Copyright © 2022 um-grex"
 
@@ -84,27 +83,30 @@ theme                  = "shadocs"
   latestVersionUrl   = "http://um-grex.github.io/grex-docs/"
   [params.navbar.shortcuts]
     [params.navbar.shortcuts.example]
-      keys     = ["Shift","1"]
-      function = "scExample"
-  [[params.navbar.versions]]
-    name = 'latest'
-    url  = 'https://shadocs.netlify.app/'
-  [[params.navbar.versions]]
-    name = 'deprecated version'
-    url  = 'https://shadocs.netlify.app/404.html'
+       keys     = ["Shift","1"]
+       function = "scExample"
+    [[params.navbar.versions]]
+       name = 'Production version'
+       url  = 'https://alikerr.github.io/grex-dev/'
+    [[params.navbar.versions]]
+       name = 'Development version'
+       url  = 'http://um-grex.github.io/grex-docs/'
+    [[params.navbar.versions]]
+       name = 'Deprecated version'
+       url  = 'http://um-grex.github.io/grex-docs/'
   [params.taxonomies]
     [params.taxonomies.categories]
-      icon = "fa-solid fa-table-cells"
+       icon = "fa-solid fa-table-cells"
     [params.taxonomies.tags]
-      icon = "fa-solid fa-tag"
+       icon = "fa-solid fa-tag"
   [params.includes]
-    jsModules = [
-        "js/shortcuts.js"
-      ]
-    js        = []
-    css       = [
-        "css/shortcuts.css"
-      ]
+     jsModules = [
+         "js/shortcuts.js"
+     ]
+     js        = []
+     css       = [
+         "css/shortcuts.css"
+     ]
   [params.versions]
     hugo_min         = "[0.71.0](https://github.com/gohugoio/hugo/releases/tag/v0.71.0)"
     bulma            = "[0.9.3](https://github.com/jgthms/bulma/releases/tag/0.9.3)"
