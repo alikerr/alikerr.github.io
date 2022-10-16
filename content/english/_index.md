@@ -103,9 +103,7 @@ description: "Documentation for Grex"
 }
 {{< /intro >}}
 
----
-
-## Territory acknowledgement  
+### Territory acknowledgement  
 ---
 
 The University of Manitoba campuses are located on original lands of Anishinaabeg, Cree, Oji-Cree, Dakota and Dene peoples, and on the homeland of the Métis Nation. We respect the [Treaties](https://communities4families.ca/outdoor-play/land-acknowledgement/) that were made on these territories, we acknowledge the harms and mistakes of the past, and we dedicate ourselves to move forward in partnership with Indigenous communities in a spirit of reconciliation and collaboration.

@@ -3,9 +3,17 @@ weight: 1800
 linkTitle: "2022"
 description: "Workshops and Training Material - 2022"
 titleIcon: "fa-solid fa-cubes"
-#categories: ["Functionalities"]
+categories: ["Training"]
 #tags: ["Content management"]
 ---
+
+## Autumn workshop, Oct 2022
+---
+
+> - Updates on Grex HPC machine status, new hardware and services
+> - Beginner how-to using HPC machines
+> - HPC software overview and best practices
+> - Using OOD Web portal on Grex
 
 ## Spring workshop, May 2022
 ---
