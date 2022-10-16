@@ -1,56 +1,71 @@
+==============
+==============
+
 Updates:
 
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./disclaimer/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./access/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./faq/_index.md                                   ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./changes/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./changes/changes-before-2020.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./changes/linux-slurm-update.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./storage/_index.md                               ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./storage/data-sizes-and-quota.md                 ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./storage/data-sharing.md                         ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./training/_index.md                              ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./training/workshops-2021.md 
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./training/workshops-2022.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./scheduler/_index.md                             ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./sitemap/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./grex/_index.md                                  ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./running-jobs/slurm-partitions.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./running-jobs/using-localdisks.md                ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./running-jobs/interactive-jobs.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./running-jobs/contributed-systems.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./running-jobs/batch-jobs.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./running-jobs/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/using-modules.md                       ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/jupyter-notebook.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/general-linux.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/cern-vmfs.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/containers.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/code-development.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./software/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./ood/_index.md                                   ==> Not finished yet <==
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./visualization/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./alliancecan/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./support/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./localit/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./disclaimer/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./access/_index.md
 
-LAST UPDATED :: [ 2022-07-15 ] :: [ NO ]  ./start-guide/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./faq/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./changes/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./changes/changes-before-2020.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./changes/linux-slurm-update.md
 
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./connecting/data-transfer.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./connecting/ssh.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./connecting/ood.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./connecting/x2go.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./connecting/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/gaussian.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/vasp.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/lammps.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/julia.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/orca.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/nwchem.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/priroda.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/matlab.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./specific-soft/_index.md
-LAST UPDATED :: [ 2022-07-15 ] :: [ OK ]  ./_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./storage/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./storage/data-sizes-and-quota.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./storage/data-sharing.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./training/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./training/workshops-2021.md 
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./training/workshops-2022.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./scheduler/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./sitemap/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./grex/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./running-jobs/slurm-partitions.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./running-jobs/using-localdisks.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./running-jobs/interactive-jobs.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./running-jobs/contributed-systems.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./running-jobs/batch-jobs.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./running-jobs/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/using-modules.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/jupyter-notebook.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/general-linux.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/cern-vmfs.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/containers.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/code-development.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./software/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./ood/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./visualization/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./alliancecan/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./support/_index.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./localit/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ NO ]  ./start-guide/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./connecting/data-transfer.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./connecting/ssh.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./connecting/ood.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./connecting/x2go.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./connecting/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/gaussian.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/vasp.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/lammps.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/julia.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/orca.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/nwchem.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/priroda.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/matlab.md
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./specific-soft/_index.md
+
+LAST UPDATED :: [ 2022-10-15 ] :: [ OK ]  ./_index.md
 
 Notes: 
 
