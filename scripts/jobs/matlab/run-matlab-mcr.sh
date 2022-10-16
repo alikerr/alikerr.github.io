@@ -4,8 +4,9 @@
 #SBATCH --mem-per-cpu=4000M
 #SBATCH --time=0-3:00:00
 #SBATCH --job-name=Matlab-mcr-job
+#SBATCH --partition=compute
 
-# Choose the MCR directory according to the compiler version used
+# Choose the MCR directory according to the compiler version used.
 # The one below for uofm/matlab/R2017A
 
 MCR=/global/software/matlab/mcr/v93
