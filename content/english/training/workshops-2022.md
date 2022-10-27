@@ -10,6 +10,8 @@ categories: ["Training"]
 ## Autumn workshop, Oct 2022
 ---
 
+Below are the slides from the Grex workshop that was held on Oct 26-27, 2022:
+
 > - **Program and updates**: [Slides](workshops/autumn2022/Programme-And-Grex-Updates-Autumn2022.pdf)
 > - **High Performance Computing: Start Guide**: [Slides](workshops/autumn2022/Start-Guide-HPC-Grex-Autumn2022.pdf)
 > - **High Performance Computing: software environments**: [Slides](workshops/autumn2022/HPC-Software-Grex-Autumn2022.pdf)
