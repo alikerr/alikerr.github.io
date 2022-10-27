@@ -10,10 +10,10 @@ categories: ["Training"]
 ## Autumn workshop, Oct 2022
 ---
 
-> - Updates on Grex HPC machine status, new hardware and services
-> - Beginner how-to using HPC machines
-> - HPC software overview and best practices
-> - Using OOD Web portal on Grex
+> - **Program and updates**: [Slides](workshops/autumn2022/Programme-And-Grex-Updates-Autumn2022.pdf)
+> - **High Performance Computing: Start Guide**: [Slides](workshops/autumn2022/Start-Guide-HPC-Grex-Autumn2022.pdf)
+> - **High Performance Computing: software environments**: [Slides](workshops/autumn2022/HPC-Software-Grex-Autumn2022.pdf)
+> - **OSC OpenOnDemand portal on Grex**: [Slides](workshops/autumn2022/Using-OpenOndemand-On-Grex-Autumn2022.pdf)
 
 ## Spring workshop, May 2022
 ---
