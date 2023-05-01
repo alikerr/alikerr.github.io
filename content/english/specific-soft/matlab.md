@@ -33,7 +33,7 @@ matlab -nodisplay -nojvm -batch "ver"
 ## Running Matlab
 ---
 
-It is possible to run MATLAB GUI interactively, for best performance in an X2Go session, OOD session and a terminal. There is no **Applications** menu shortcut for MATLAB, because it is only in the PATH after the module is loaded from the command line. After loading the module, the command **matlab** will be in the PATH.
+It is possible to run MATLAB GUI interactively, for best performance in an X2Go session, [OOD](ood) session and a terminal. There is no **Applications** menu shortcut for MATLAB, because it is only in the PATH after the module is loaded from the command line. After loading the module, the command **matlab** will be in the PATH.
 
 For running a MATLAB script in text mode, or a batch script, the following options can be used:
 
@@ -64,7 +64,7 @@ In the deploy directory, an executable __mycode__ will be created along with a s
 ### Example of SLURM script: MCR
 ---
 
-After the standalone executable mycode and corresponding script run_mycode.sh have been transferred to a directory on the target system on which they will be run, a batch job script needs to be created in the same directory. Here is an example batch job script.
+After the standalone executable mycode and corresponding script __run_mycode.sh__ have been transferred to a directory on the target system on which they will be run, a batch job script needs to be created in the same directory. Here is an example batch job script.
 
 {{< collapsible title="Script example for running MATLAB via MCR" >}}
 {{< snippet
@@ -87,7 +87,7 @@ An important part of the above script is the location of the MATLAB Compiler Run
 ## MATLAB on the Alliance's clusters
 ---
 
-For using MATLAB on the Alliance's clusters, please visit the corresponding MATLAB [page](https://docs.alliancecan.ca/wiki/MATLAB). While there is a wide MATLAB license accessible for users on [cedar](https://docs.alliancecan.ca/wiki/Cedar), [beluga](https://docs.alliancecan.ca/wiki/B%C3%A9luga/en) and [narval](https://docs.alliancecan.ca/wiki/Narval/en), using MATLAB on graham requires access to an external [license](https://docs.alliancecan.ca/wiki/MATLAB#Using_an_external_license). UManitoba users could use MATLAB on [graham](https://docs.alliancecan.ca/wiki/Graham) without additional settings.   
+For using MATLAB on the Alliance's clusters, please visit the corresponding MATLAB [page](https://docs.alliancecan.ca/wiki/MATLAB). While there is a wide MATLAB license accessible for all users on [cedar](https://docs.alliancecan.ca/wiki/Cedar), [beluga](https://docs.alliancecan.ca/wiki/B%C3%A9luga/en) and [narval](https://docs.alliancecan.ca/wiki/Narval/en), using MATLAB on graham requires access to an external [license](https://docs.alliancecan.ca/wiki/MATLAB#Using_an_external_license). UManitoba users could use MATLAB on [graham](https://docs.alliancecan.ca/wiki/Graham) without additional settings.   
 
 ## Related links
 ---

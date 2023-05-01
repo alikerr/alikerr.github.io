@@ -1,7 +1,7 @@
 ---
 weight: 3500
-linkTitle: "Access / Usage conditions"
-title: "Access and Usage conditions"
+linkTitle: "Access and usage conditions"
+title: "Access and Usage Conditions"
 description: "All you need to know for accessing and using Grex."
 titleIcon: "fa-solid fa-house-chimney"
 categories: ["Information"]
@@ -27,7 +27,7 @@ As of the moment, Grex is using the Compute Canada (now the Alliance) account ma
  **There are two technical conditions for getting access:**
 
 >  - An active [CCDB](https://ccdb.computecanada.ca "CCDB") account. 
->  - An active CCDB "role" affiliated with UManitoba.
+>  - An active CCDB "role" affiliated with UManitoba (University of Manitoba).
 
 ## Guidelines of the Acceptable Use
 ---
@@ -36,11 +36,11 @@ Grex adheres to the Alliance's Privacy and Security [policy](https://alliancecan
 
 Users that have Grex account have accepted both.
 
-> * In particular, user's accounts **cannot be shared** with anyone for whatever reason.
+> * In particular, user's accounts **cannot and should not be shared** with anyone for whatever reason. Our support staff will never ask for your password.
 
 {{< alert type="warning" >}}
 Sharing any account information (login/password or SSH private keys) leads to immediate blocking of the account. 
- UNIX groups and shared project spaces can be used for [sharing data](storage/data-sharing).
+ UNIX groups and shared project spaces can be used for data [sharing](storage/data-sharing).
 {{< /alert >}}
 
 > * Usage is monitored and statistics are collected automatically, to estimate the researcher's needs and future planning, and to troubleshoot day to day operational issues.
@@ -50,18 +50,11 @@ Sharing any account information (login/password or SSH private keys) leads to im
 ## Getting a Resource Allocation on Grex
 ---
 
-* Similarly, to the Alliance (formerly known as Compute Canada), there is a two-tier system for resource allocation on Grex. Every group gets a "Default" allocation of Grex resources (computing time and storage space). Groups that need a larger fraction of resources and use Grex intensively, might want to apply for a local Resource Allocation Competition (RAC).
+* Similarly, to the Alliance (formerly known as Compute Canada), there is a two-tier system for resource allocation on Grex. Every group gets a "Default" allocation of Grex resources (computing time and storage space). Groups that need a larger fraction of resources and use Grex intensively, might want to apply for a local Resource Allocation Competition (Grex-RAC).
 
-* Grex's local RAC calls are issued once a year. They are reviewed by a local Advanced Research Computing Committee and may be scaled according to the availability of resources. The instructions and conditions of this year's RAC are provided on the RAC template document.
+* Grex's local RAC calls are issued once a year. They are reviewed by a local Advanced Research Computing Committee and may be scaled according to the availability of resources. The instructions and conditions of this year's RAC are provided on the RAC template document (sent via email when the RAC is announced).
 
 ---
-
-<!--
-{{< alert type="info" >}}
-The RAC 2022-2023 application call will be announced soon.
-{{< /alert >}}
----
--->
 
 <!-- {{< treeview display="tree" />}} -->
 

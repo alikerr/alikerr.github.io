@@ -1,7 +1,7 @@
 ---
 weight: 6600
-linkTitle: "Software specific notes"
-title: "Software specific notes"
+linkTitle: "Software Specific Notes"
+title: "Software Specific Notes"
 description: "Documntation on how to run specific packages like VASP, ORCA, ... etc."
 titleIcon: "fa-solid fa-house-chimney"
 categories: ["Software", "Scheduler"]
@@ -15,7 +15,7 @@ This page refers to the usage of some specific programs installed on Grex, like 
 
 ---
 
-## Internal links
+## Software / Applications
 ---
 
 {{< treeview display="file" />}}

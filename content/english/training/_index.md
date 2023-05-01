@@ -18,12 +18,13 @@ categories: ["Training"]
 ## WestGrid training material
 ---
 
-The training material from WestGrid webinars are available [online](https://westgrid.github.io/trainingMaterials/) and classified into different categories:
+The training material from WestDRI (BC DRI and Prairies DRI groups, formerly known as WestGrid) webinars are available [online](https://training.westdri.ca/) and classified into different categories:
 
-* Getting started: [Link](https://westgrid.github.io/trainingMaterials/getting-started/)
-* Programming: [Link](https://westgrid.github.io/trainingMaterials/programming/)
-* Tools: [Link](https://westgrid.github.io/trainingMaterials/tools/)
-* Courses: [Link](https://westgrid.github.io/trainingMaterials/courses/)
+* Getting started: [Link](https://training.westdri.ca/getting-started/)
+* Programming: [Link](https://training.westdri.ca/programming/)
+* Tools: [Link](https://training.westdri.ca/tools/)
+* Courses: [Link](https://training.westdri.ca/courses/)
+* Events: [Link](https://training.westdri.ca/blog/)
 
 ## Training material from the Alliance and its regional partners
 ---
@@ -35,8 +36,8 @@ The training material from WestGrid webinars are available [online](https://west
 * [Compute Ontario](https://www.computeontario.ca/calendar-and-events)
 * [SciNET](https://support.scinet.utoronto.ca/education/browse.php), [new link](https://education.scinet.utoronto.ca/course/index.php)
 * [SharcNET](https://training.sharcnet.ca/courses/)
-* [former WestGrid](https://westgrid.github.io/trainingMaterials/) (now BC DRI group and Prairies DRI group)
-
+* [WestDRI](https://training.westdri.ca/)
+* National Training [calendar](https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar)
 ---
 
 <!-- Changes and update:

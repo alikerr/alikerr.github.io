@@ -52,7 +52,7 @@ It is better to leave the __/home/$USER/ondemand__ directory alone!
 ---
 
 One of the convenient and useful features of OOD is its Files app that allows you to browse the files and directories
-across all Grex filesystems: __/home__ and __/global/scratch__. 
+across all Grex filesystems: __/home__, __/global/scratch__ and __/project__. 
 
 {{< collapsible title="File view on OpenOndemand web portal on Grex" >}}
 ![](ood/files.png)
@@ -78,6 +78,12 @@ As for now, the following applications are supported:
 
 As with regular SLURM jobs, it is important to specify SLURM partitions for them to start faster. Perhaps the __test__ partition for Desktop is the best place to start interactive Desktop jobs, so it is hardcoded in the Simplified Desktop item.
 
+The following links are added to OOD:
+
+> - From the menu __Jobs__, there is a link __Grex SLURM Queues State__ that shows a summary of running and pending jobs. It runs a modified version of the script **grex-summarize-queue** that is accessible from any login node.
+
+> - From the menu __Clusters__, there is a link __Grex SLURM Node State__ to get a summary of allocated and idle nodes by partition. The same information can be accessed from any login node by running a custom script:__slurm-nodes-state__
+ 
 ---
 
 <!-- {{< treeview display="tree" />}} -->

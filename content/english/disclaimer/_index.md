@@ -1,5 +1,5 @@
 ---
-weight: 9000
+weight: 9250
 title: "Disclaimer"
 description: "Disclaimer."
 #titleIcon: "fa-solid fa-house-chimney"
@@ -13,11 +13,11 @@ categories: ["Information"]
 
 ---
 
-> We advise users to exercise reason when following the advice on these pages. We disclaim responsibility for any harm, loss of data, loss of good-will or whatever negative effects might happen due to reading this documentation.
+> We advise users to exercise reason when following the advice from these pages. We disclaim responsibility for any harm, loss of data, loss of good-will or whatever negative effects might happen due to reading this documentation.
 
 ---
 
-> This website does not represent official views, policies, or standards of University of Manitoba, [UofM](https://umanitoba.ca/governance/governing-documents), WestGrid, BC DRI group, Prairies DRI group or the __Digital Research Alliance of Canada__, [DRAC](https://alliancecan.ca/) (**the Alliance**), formerly known as Compute Canada. Please refer to the official sites of the above-mentioned institutions for more information.
+> This website does not represent official views, policies, or standards of University of Manitoba, [UofM](https://umanitoba.ca/governance/governing-documents), WestGrid, BC DRI group, Prairies DRI group or the __Digital Research Alliance of Canada__, [DRAC](https://alliancecan.ca/) (**the Alliance**), formerly known as Compute Canada. Please refer to the official sites of the above-mentioned institutions and organizations for more information.
 
 ---
 
@@ -26,11 +26,11 @@ categories: ["Information"]
 ---
 
 {{< alert type="warning" >}}
-__WestGrid__ ceased operations on April 1st, 2022. The former WestGrid institutions are now re-organized into two consortia: __BC DRI group__ and __Prairies DRI group.__
+__WestGrid__ ceased operations since April 1st, 2022. The former WestGrid institutions are now re-organized into two consortia: __BC DRI group__ and __Prairies DRI group.__
 {{< /alert >}}
 
 {{< alert type="warning" >}}
-__Compute Canada__ ceased operations on April 1st, 2022. The __Digital Research Alliance of Canada__, [the Alliance](https://alliancecan.ca/), is coordinating the national advanced research computing [ARC](https://alliancecan.ca/en/services/advanced-research-computing) services.
+__Compute Canada__ ceased operations since April 1st, 2022. The __Digital Research Alliance of Canada__, [the Alliance](https://alliancecan.ca/), is coordinating the national advanced research computing [ARC](https://alliancecan.ca/en/services/advanced-research-computing) services.
 {{< /alert >}}
 
 ---

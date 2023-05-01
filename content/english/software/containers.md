@@ -82,7 +82,7 @@ A partial description of what is present on OSG CVMFS is available [here](https:
 ---
 
  * [Singularity/Sylabs homepage](https://sylabs.io)
- * [Compute Canada Singularity documentation](https://docs.alliancecan.ca/wiki/Singularity)
+ * [Singularity documentation](https://docs.alliancecan.ca/wiki/Singularity) (The Alliance documentation)
  * [Westgrid Singularity tutorial](https://westgrid.github.io/trainingMaterials/materials/singularity20210526.pdf), a recording can be found [here](https://westgrid.github.io/trainingMaterials/tools/virtual/)
  * [Docker Hub](https://hub.docker.com)
  * [Singularity Hub](https://ngc.nvidia.com/)

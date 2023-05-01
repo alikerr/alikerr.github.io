@@ -15,18 +15,18 @@ categories: ["Software", "Scheduler"]
 ## Modules
 ---
 
-At the time of writing this documentation, multiple versions of LAMMPS were installed on Grex. To see all the available versions, use __module spider lammps__
+Multiple versions of LAMMPS were installed on Grex. To see all the available versions, use __module spider lammps__ and follow the instructions. 
 
 ## Available CPU versions:
 ---
 
-| Version   | Module name     |
-| -------   | -----------     |
-| 29 Sep 21 | lammps/29Sep21  |
-| 05 Jun 19 | lammps/5Jun19   |
-| 11 Aug 17 | lammps/11Aug17  |
-| 05 Nov 16 | lammps/5Nov16   |
-| 30 jul 16 | lammps/30jul16  |
+| Version   | Module Name     | Supported Packages |
+| :-------: | :---------:     | ------------------ | 
+| 29 Sep 21 | lammps/29Sep21  | * |
+| 05 Jun 19 | lammps/5Jun19   | * |
+| 11 Aug 17 | lammps/11Aug17  | * |
+| 05 Nov 16 | lammps/5Nov16   | * |
+| 30 Jul 16 | lammps/30jul16  | * |
 
 ## Available GPU versions:
 ---
@@ -71,7 +71,7 @@ The name of the binary is called __lmp_gpu__ (see the example of script below).
 ## OpenMP version
 ---
 
-## Hybrid version: MPI and OPenMP
+## Hybrid version: MPI and OpenMP
 ---
 
 ## GPU version

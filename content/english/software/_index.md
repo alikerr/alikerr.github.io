@@ -40,12 +40,12 @@ The two most popular Modules are the original [Tcl Modules](http://modules.sourc
 ## Lmod
 ---
 
-The main feature of Lmod is the hierarchical module system to provide a better control of software dependencies. Modules for software items that depend on a particular core module (toolchains: a compiler suite, a MPI library) are only accessible after the core modules are loaded. This prevents situations where conflicts appear when software items built with different toolchains are loaded simultaneously. Lmod will also automatically unload conflicting modules and reload their dependencies should toolchain change. Finally, by manipulating module root paths, it is possible to provide more than one software stack per HPC system. For more information, please refer to the software stacks available on Grex.
+The main feature of Lmod is the hierarchical module system to provide a better control of software dependencies. Modules for software items that depend on a particular core module (toolchains: a compiler suite, a MPI library) are only accessible after the core modules are loaded. This prevents situations where conflicts appear when software items built with different toolchains are loaded simultaneously. Lmod will also automatically unload conflicting modules and reload their dependencies should toolchain change. Finally, by manipulating module root paths, it is possible to provide more than one software stack per HPC system. For more information, please refer to the software stacks available on Grex and using modules [page](software/using-modules).
 
 ## How to find the software with Lmod Modules
 ---
 
-A "software stack" module should be loaded first. On Grex, there are two software stacks, called __GrexEnv__ and __CCEnv__, standing for the software built on Grex locally and the software environment from Compute Canada, correspondingly. __GrexEnv__ is the only module loaded by default.
+A "software stack" module should be loaded first. On Grex, there are two software stacks, called __GrexEnv__ and __CCEnv__, standing for the software built on Grex locally and the software environment from the Alliance (Compute Canada), correspondingly. __GrexEnv__ is the only module loaded by default.
 
 When a software stack module is loaded, the **module spider** command will find a specific software item (for example, GAMESS; note that all the module names are __lower-case__ on Grex and on Compute Canada software stacks) if it exist under that stack:
 
@@ -66,22 +66,22 @@ module load intel/15.0.5.223  impi/5.1.1.109
 module load gamess/Sept2019
 {{< /highlight >}}
 
-For more information about using Lmod modules, please refer to Compute Canada documentation about [Using Modules](https://docs.alliancecan.ca/wiki/Utiliser_des_modules/en) and [Lmod User Guide](https://lmod.readthedocs.io/en/latest/010_user.html).
+For more information about using Lmod modules, please refer to the Alliance (Compute Canada) documentation about using [Modules](https://docs.alliancecan.ca/wiki/Utiliser_des_modules/en) and Lmod user [Guide](https://lmod.readthedocs.io/en/latest/010_user.html).
 
 ## How and when to install software in your HOME directory
 ---
 
-Linux (Unlike some Desktop operating systems) has a concept of user permissions separation. Regular users cannot, unless explicitly permitted, access systems files and files of other users.
+Linux (Unlike some Desktop operating systems) has a concept of user permissions separation. Regular users cannot, unless explicitly permitted, access system's files and files of other users.
 
 You can almost always install software without **super-user** access into your __/home/$USER__ directory. Moreover, you can manage the software with Lmod: Lmod automatically searches for module files under __$HOME/modulefiles__ and adds the modules it discovers there into the modules tree so they can be found by __module spider__, loaded by __module load__, etc.
 
-Most Linux software can be installed from sources using either [Autoconf](https://www.gnu.org/software/autoconf/) or [CMake](https://cmake.org/) configuration tools. These will accept __-\-prefix=/home/$USER/my-software/version__ or __-DCMAKE_INSTALL_PREFIX=/home/$USER/my-software/version__.
+Most Linux software can be installed from sources using either [Autoconf](https://www.gnu.org/software/autoconf/) or [CMake](https://cmake.org/) configuration tools. These will accept __-\-prefix=/home/$USER/my-software/version__ or __-DCMAKE_INSTALL_PREFIX=/home/$USER/my-software/version__ as arguments. These paths are used for the installation directories where the user have full access.
 
-Software that comes as a binary archive to be unpacked can be simply unpacked into your home directory location. Then, the paths should be set for the software to be found: either by including the environment variable in __$HOME/.bashrc__ or by creating a specific module in __$HOME/modulefiles/my-software/version__ following Lmod instructions for [writing Modules](https://lmod.readthedocs.io/en/latest/015_writing_modules.html).
+Software that comes as a binary archive to be unpacked can be simply unpacked into your home directory location. Then, the paths should be set for the software to be found: either by including the environment variable in __$HOME/.bashrc__ or in __$HOME/.bash_profile__ or by creating a specific module in __$HOME/modulefiles/my-software/version__ following Lmod instructions for [writing Modules](https://lmod.readthedocs.io/en/latest/015_writing_modules.html).
 
 There exist binary software environments like conda that manage their own tree of binary-everything. These can be used as well, with some caution, because automatically pulling everything might conflict with the same software existing in the HPC environment (Python package paths, MPI libraries, etc.).
 
-However, if a software is really a part of the base OS (something like a graphics Desktop software, etc.), it can be hard to rebuild from sources due to many dependencies. If needed, it may be better if installed centrally or used in a container (see Containers documentation).
+However, if a software is really a part of the base OS (something like a graphics Desktop software, etc.), it can be hard to rebuild from sources due to many dependencies. If needed, it may be better if installed centrally or used in a containeri, see Containers [documentation](software/containers).
 
 ## Internal links
 ---

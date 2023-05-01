@@ -8,6 +8,8 @@ categories: ["Information"]
 #tags: ["Content management"]
 ---
 
+[![Digital Research Alliance of Canad](alliance/Alliance_logo_English-first+slogan.jpg)](https://alliancecan.ca/)
+
 ## Introduction
 ---
 
@@ -38,9 +40,10 @@ Since we have switched Grex to CCDB credentials in late **2019**, the CCDB accou
 * The old WestGrid accounts are no longer needed, nor working on Grex. 
 * The WG portal will be decommissioned in the near future.
 * If you still have data on ownCloud, please move it to [nextCloud](https://docs.alliancecan.ca/wiki/Nextcloud/en), a similar service to ownCloud. This later will be decommissioned in the near future. 
+* The old WestGrid DNS names are no longer valid nor used on Grex.
 {{< /alert >}}
 
-## The Alliance's clusters
+## The Alliance's clusters and services
 ---
 
 * [Beluga](https://docs.alliancecan.ca/wiki/B%C3%A9luga/en)
@@ -49,6 +52,8 @@ Since we have switched Grex to CCDB credentials in late **2019**, the CCDB accou
 * [Narval](https://docs.alliancecan.ca/wiki/Narval/en)
 * [Niagara](https://docs.alliancecan.ca/wiki/Niagara/en)
 * [Cloud](https://docs.alliancecan.ca/wiki/Cloud/en)
+* [NextCloud](https://docs.alliancecan.ca/wiki/Nextcloud)
+* [Globus](https://docs.alliancecan.ca/wiki/Globus)
 
 ## Regional Partners
 ---
@@ -62,7 +67,7 @@ The regional partners of the Alliance are: BC DRI group and Prairies DRI group, 
 - [AceNET](https://wiki.ace-net.ca/wiki/ACENET "AceNET official website")
 
 {{< alert type="warning" >}}
-__WestGrid__ ceased its operations on April 1st, 2022. The former WestGrid institutions are now re-organized into two consortia: __BC DRI group__ and __Prairies DRI group.__
+__WestGrid__ ceased its operations since April 1st, 2022. The former WestGrid institutions are now re-organized into two consortia: __BC DRI group__ and __Prairies DRI group.__
 {{< /alert >}}
 
 University of Manitoba is a member institution of Prairies DRI group, and provides a site for the Alliance support staff that support usage of the National DRI by Manitoba researchers and their collaborators. 
@@ -70,13 +75,14 @@ University of Manitoba is a member institution of Prairies DRI group, and provid
 ## Getting support
 ---
 
-The single point of contact for Compute Canada support is: __support@tech.alliancecan.ca__
+The single point of contact for the Alliance (Compute Canada) support is: __support@tech.alliancecan.ca__
 
 When requesting support, please make sure to include enough [information](https://docs.alliancecan.ca/wiki/Technical_support) that will help support staff to identify your issue in order to solve it in time. An example of details to include in your email are (but not limited to): user name, name of the cluster, job id if applicable, job script, list of the modules, a path to your files and scripts, ... etc. You may include any other details that may help to understand your issue. 
 
 ---
 
 [![Digital Research Alliance of Canad](alliance/Alliance_logo_English-first+slogan.jpg)](https://alliancecan.ca/)
+
 <!--
 [![Digital Research Alliance of Canad](alliance/Alliance_logo_English-first.jpg)](https://alliancecan.ca/)
 -->

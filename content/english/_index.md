@@ -17,7 +17,7 @@ description: "Documentation for Grex"
   "steps": [
     {
       "title": "Grex documentation",
-      "intro": "Welcome to Grex documentation website.<br>Through this step by step onboarding guide, you will discover how to use and navigate this website.",
+      "intro": "Welcome to Grex documentation website.<br>Through this step by step onboarding guide, you will discover how to use and navigate through this website.",
       "onbeforechange": "toggleSidebar(false,true);toggleExtendMenu(false);"
     },{
       "title": "The University of Manitoba logo",
@@ -63,7 +63,7 @@ description: "Documentation for Grex"
       "onbeforechange": "toggleSidebar(false,true);toggleExtendMenu(true);"
     },{
       "title": "Multilingual",
-      "intro": "The multilingual button provides access to the several translations of the current page.<br><i>NB: This button is only visible if a translation page exists for the current page.</i>",
+      "intro": "The multilingual button provides access to the several translations of the current page.<br><i>NB: This button is only visible if a translation page exists for the current page. Only the English version is available at this time.</i>",
       "element": "getFirstVisibleElement('#langsSelector, #langsSelectorExtend');",
       "position": "left",
       "onbeforechange": "toggleSidebar(false,true);toggleExtendMenu(true);"

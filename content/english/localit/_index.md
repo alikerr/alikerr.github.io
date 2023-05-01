@@ -10,7 +10,7 @@ categories: ["Information"]
 ## Introduction
 ---
 
-In addition to the HPC Research Computing facility, there are other IT providers that might relate to research.
+In addition to the **HPC** Research Computing facility, there are other **IT** providers that might relate to research.
 
 ## Resources provided by IST
 ---
@@ -27,7 +27,7 @@ Libraries provide a variety of services related to Research Data Management, as 
 ## Faculties IT representatives
 ---
 
-Several Faculties/Department have local IT representatives that maintain servers, workstation and computing labs.
+Several Faculties/Departments have local IT representatives that maintain servers, workstation and computing labs.
 
 ---
 

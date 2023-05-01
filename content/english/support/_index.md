@@ -25,22 +25,16 @@ __To sum it all up: the main way to contact us is: [mailto:support@tech.alliance
 -->
 
 {{< alert type="info" >}}
-__To sum it all up: the main way to contact us is: support@tech.alliancecan.ca__
+__To sum it all up: the main way to reach out for support is: support@tech.alliancecan.ca__
 {{< /alert >}}
 
 Secondary support contacts in the Alliance that are useful for particular services:
 
 > * __cloud@tech.alliancecan.ca__ for [Cloud](https://docs.alliancecan.ca/wiki/Cloud "Cloud") support.
-> * __frdr@computecanada.ca__ for Federated Data Repository [FRDR](https://www.frdr.ca/repo/ "FRDR").
+> * __support@frdr-dfdr.ca__ for Federated Data Repository [FRDR](https://www.frdr.ca/repo/ "FRDR").
 > * __globus@tech.alliancecan.ca__ for issues related to Compute Canada's [Globus](https://globus.computecanada.ca/ "Globus") file transfer.
 
-<!--
-* [cloud@computecanada.ca](mailto:cloud@tech.alliancecan.ca "mailto:cloud@tech.alliancecan.ca") for [Cloud](https://docs.alliancecan.ca/wiki/Cloud "Cloud") support.
-* [frdr@computecanada.ca](mailto:frdr@computecanada.ca "mailto:frdr@computecanada.ca") for Federated Data Repository [FRDR](https://www.frdr.ca/repo/ "FRDR").
-* [globus@tech.alliancecan.ca](mailto:globus@tech.alliancecan.ca "mailto:globus@tech.alliancecan.ca") for issues related to Compute Canada's [Globus](https://globus.computecanada.ca/ "Globus") file transfer.
--->
-
-More information on the Alliance (Compute Canada) support can be found [here.](https://docs.alliancecan.ca/wiki/Technical_support "Technical Support")
+More information on the Alliance (formerly known as Compute Canada) support can be found [here.](https://docs.alliancecan.ca/wiki/Technical_support "Technical Support")
 
 We support both local (Grex) and National resources through the Alliance (Compute Canada) support ticketing system.
 
@@ -52,7 +46,7 @@ We have an HPC group in IST's Help Desk system __support@umanitoba.ca__ called C
 ## In person training sessions and workshops
 ---
 
-You can book an in-person session (face to face meeting). We help new users for getting started on the systems we support, or for solving a specific problem that is harder to do over email, or for a consultation about Grex or the resources provided by the Alliance.
+You can book an in-person session (face to face meeting or online). We help new users for getting started on the systems we support, or for solving a specific problem that is harder to do over email, or for a consultation about Grex or the resources provided by the Alliance.
 
 {{< collapsible title="Where to find us on Fort Garry campus?" >}}
 E2-588 EITC, Fort Garry Campus
@@ -79,14 +73,15 @@ We also provide small-group workshops on Research Computing topics when there is
 ## Internal links
 ---
 
-* [Workshops and Training Material](training)
+* Workshops and Training [Material](training)
 
 ## External links
 ---
 
 * the Alliance [support](https://docs.alliancecan.ca/wiki/Technical_support)
 * [IST Help Desk](http://umanitoba.ca/ist/help/ "IST Help Desk")
-
+* WestDRI Training [Material](https://training.westdri.ca/)
+* the Alliance Training [Calendar](https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar)
 ---
  
 <!-- {{< treeview display="tree" />}} -->
