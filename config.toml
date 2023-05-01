@@ -2,7 +2,7 @@
 # Standard configuration
 #================================================================================
 
-baseURL                = "https://alikerr.github.io/grex-dev/"
+baseURL                = "https://alikerr.github.io/grex-docs/"
 copyright              = "The MIT License (MIT) Copyright © 2022 um-grex"
 
 defaultContentLanguage = "en"
