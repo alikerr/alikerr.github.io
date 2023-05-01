@@ -2,7 +2,7 @@
 # Standard configuration
 #================================================================================
 
-baseURL                = "https://alikerr.github.io/grex-docs/"
+baseURL                = "https://alikerr.github.io/grex-dev/"
 copyright              = "The MIT License (MIT) Copyright © 2022 um-grex"
 
 defaultContentLanguage = "en"
@@ -14,7 +14,6 @@ publishDir             = "public"
 title                  = "Unofficial Grex User Guide"
 
 theme                  = "shadocs"
-#themesdir              = "../.."
 
 [Author]
   name = "Ali Kerrache, Grigory Shamov"
@@ -123,7 +122,7 @@ theme                  = "shadocs"
 #================================================================================
 
 [github]
-  main = "https://alikerr.github.io/grex-docs"
+  main = "https://alikerr.github.io/grex-dev"
   download = "https://alikerr.github.io/archive/main.zip"
   issue = "https://alikerr.github.io/issues"
   fork = "https://alikerr.github.io/fork"
