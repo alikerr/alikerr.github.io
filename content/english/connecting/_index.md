@@ -25,6 +25,10 @@ Since early 2021, a new login node, **yak.hpc.umanitoba.ca** is available to acc
 ssh someuser@yak.hpc.umanitoba.ca
 {{< /highlight >}}
 
+{{< alert type="warning" >}}
+Please remember to replace __someuser__ with your Alliance user name.
+{{< /alert >}}
+
 ## Transferring Data
 ---
 
@@ -44,6 +48,7 @@ Since October 2021, there is an OpenOnDemand (OOD) Web interface to Grex, availa
 
 See the documentation for more details on how to connect from various clients of operating systems: [SSH](connecting/ssh), [X2Go](connecting/x2go), [OOD](connecting/ood).
 
+## Internal links
 ---
 
 {{< treeview />}}

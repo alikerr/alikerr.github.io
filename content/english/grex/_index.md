@@ -1,12 +1,12 @@
 ---
 weight: 2000
-linkTitle: "Home"
 title: "Grex: High Performance Computing Cluster at University of Manitoba"
+linkTitle: "Home"
 description: "All you need to know about Grex and how to use it for running jobs"
 titleIcon: "fa-solid fa-user-gear"
 categories: ["Information"]
-#banner: true
-#bannerContent: "__SCRATCH - OS and LUSTRE UPDATES - April 3-17, 2023__"
+banner: true
+bannerContent: "__SCRATCH - OS and LUSTRE UPDATES__"
 #tags: ["Content management"]
 ---
 
@@ -32,7 +32,7 @@ If you are a new Grex user, proceed to the quick start [guide](start-guide) and 
 * The original Grex was an SGI Altix machine, with 312 compute nodes (Xeon 5560, 12 CPU cores and 48 GB of RAM per node) and QDR 40 Gb/s InfiniBand network. 
 * In 2017, a new Seagate **Storage Building Blocks (SBB)** based Lustre filesystem of **418 TB** of useful space was added to Grex.
 * In 2020 and 2021, the University added several modern Intel CascadeLake CPU nodes, a few GPU nodes, a new NVME storage for home directories, and EDR InfiniBand interconnect. 
-* On March 2023, a new storage of **1 PB** was added on Grex. It is called **/project** filesystem. 
+* On March 2023, a new storage of **1 PB** was added to Grex. It is called **/project** filesystem. 
 
 The current computing hardware available for general use is as follow:
 
@@ -41,7 +41,7 @@ The current computing hardware available for general use is as follow:
 
 As of Sep 14, 2022, Grex is using UManitoba network. We have decommissioned the old WG and BCNET network that was used for about 11 years. Now, the DNS names use **hpc.umanitoba.ca** instead of the previous name **westgrid.ca**
 
-On Grex, we have multiple login nodes:
+On Grex, there are multiple login nodes:
 
 * __Bison__: bison.hpc.umanitoba.ca
 * __Tatanka__: tatanka.hpc.umanitoba.ca
@@ -49,7 +49,11 @@ On Grex, we have multiple login nodes:
 * __Yak__: yak.hpc.umanitoba.ca (please note that the architecture for this node is avx512).
 * __Aurochs__: https://aurochs.hpc.umanitoba.ca (only used for [OOD](./ood) and requires VPN if used outside campus network).
 
-To log in to Grex in the text mode (bash mode), connect to __grex.hpc.umanitoba.ca__ using an SSH (secure shell) client. The DNS name __grex.hpc.umanitoba.ca__ serves as an alias for two login nodes: __bison.hpc.umanitoba.ca__ and __tatanka.hpc.umanitoba.ca__ . It is also possible to connect via __yak.hpc.umanitoba.ca__
+To login to Grex in the text (bash) mode, connect to __grex.hpc.umanitoba.ca__ using a secure shell client, [SSH](connecting/#ssh). 
+
+The DNS name __grex.hpc.umanitoba.ca__ serves as an alias for two login nodes: __bison.hpc.umanitoba.ca__ and __tatanka.hpc.umanitoba.ca__ . 
+
+It is also possible to connect via __yak.hpc.umanitoba.ca__
 
 ### CPU nodes
 ---
@@ -116,7 +120,7 @@ Grex is a traditional HPC machine, running CentOS Linux under SLURM resource man
 
 In addition to the traditional bash mode (connecting via ssh), users have access to:
 
-* __OpenOnDemand:__ on Grex, it is possible to use OpenOnDemand (OOD for short). For more information, please refer to the page: [OpenOnDemand](./ood)
+* __OpenOnDemand:__ on Grex, it is possible to use OpenOnDemand (OOD for short) to login to Grex and run batch or GUI applications (VNC Desktops, Matlab, Gaussview, Jupyter, ...). For more information, please refer to the page: [OpenOnDemand](./ood)
 * __X2Go:__ for more information, visit the page, connect to Grex via [X2Go](connecting/#x2go)
 
 ## Useful links

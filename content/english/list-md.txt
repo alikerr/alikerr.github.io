@@ -1,0 +1,78 @@
+==============
+./visualization/index.md
+./faq/index.md
+./changes/linux-slurm-update.md
+./changes/changes-before-2020.md
+./changes/index.md
+./scheduler/index.md
+./ood/index.md
+./deprecated/index.md
+==============
+
+Updates:
+
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./disclaimer/_index.md
+
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./access/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./faq/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./changes/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./changes/changes-before-2020.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./changes/linux-slurm-update.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./storage/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./storage/data-sizes-and-quota.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./storage/data-sharing.md
+
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./training/_index.md
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./training/workshops-2021.md 
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./training/workshops-2022.md
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./training/workshops-2023.md
+
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./scheduler/_index.md
+
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./sitemap/_index.md
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./glossary/_index.md 
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./grex/_index.md
+
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./running-jobs/slurm-partitions.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./running-jobs/using-localdisks.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./running-jobs/interactive-jobs.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./running-jobs/contributed-systems.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./running-jobs/batch-jobs.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./running-jobs/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/using-modules.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/jupyter-notebook.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/general-linux.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/cern-vmfs.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/containers.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/code-development.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./software/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./ood/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./visualization/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./alliancecan/_index.md
+
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./support/_index.md
+
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./localit/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./start-guide/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./connecting/data-transfer.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./connecting/ssh.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./connecting/ood.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./connecting/x2go.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./connecting/_index.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/gaussian.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/vasp.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/lammps.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/julia.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/orca.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/nwchem.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/priroda.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/matlab.md
+# LAST UPDATED :: [ 2023-06-20 ] :: [ NO ]  ./specific-soft/_index.md
+
+LAST UPDATED :: [ 2023-06-20 ] :: [ YES ]  ./_index.md
+
+Notes: 
+
+* 
+
+

@@ -1,6 +1,7 @@
 ---
 weight: 8500
-title: "Support and Training"
+title: "Getting Help"
+linktitle: "Getting Help"
 description: Getting help and support."
 titleIcon: "fa-solid fa-house-chimney"
 categories: ["Information"]
@@ -81,7 +82,7 @@ We also provide small-group workshops on Research Computing topics when there is
 * the Alliance [support](https://docs.alliancecan.ca/wiki/Technical_support)
 * [IST Help Desk](http://umanitoba.ca/ist/help/ "IST Help Desk")
 * WestDRI Training [Material](https://training.westdri.ca/)
-* the Alliance Training [Calendar](https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar)
+* the Alliance National Training [Calendar](https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar)
 ---
  
 <!-- {{< treeview display="tree" />}} -->

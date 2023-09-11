@@ -1,8 +1,9 @@
 ---
-weight: 9000
+weight: 9250
 title: "Glossary"
+linktitle: "Glossary"
 description: "Glossary"
-titleIcon: "fa-solid fa-house-chimney"
+titleIcon: "fa-solid fa-sitemap"
 categories: ["Information"]
 #tags: ["Important"]
 ---
@@ -45,7 +46,7 @@ categories: ["Information"]
 ## I
 
 * __I/O__ :: Input/Output
-
+* __IST__ :: Information Services and Technology
 ## J
 
 ## K
@@ -78,7 +79,7 @@ categories: ["Information"]
 
 ## R
 
-* __RAC__ :: 
+* __RAC__ :: Resource Allocation Competition 
 
 ## S
 

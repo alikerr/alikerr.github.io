@@ -1,6 +1,7 @@
 ---
 weight: 9500
-title: "Sitemap"
+title: "Grex Documentation - Sitemap"
+linktitle: "Sitemap"
 description: "Sitemap."
 titleIcon: "fa-solid fa-sitemap"
 categories: ["Miscellaneous"]

@@ -8,6 +8,10 @@ categories: ["Training"]
 #tags: ["Content management"]
 ---
 
+{{< alert type="info" >}}
+**Next workshop:** coming soon ...
+{{< /alert >}}
+
 ## Local workshops
 ---
 

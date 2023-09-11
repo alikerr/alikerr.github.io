@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: "Unofficial Grex User Guide"
+linktitle: "Unofficial Grex User Guide"
 description: "Documentation for Grex"
 #categories: []
 ---

@@ -1,6 +1,7 @@
 ---
 weight: 1900
 linkTitle: "2021"
+Title: "Workshops - 2021"
 description: "Workshops and Training Material - 2021"
 titleIcon: "fa-solid fa-cubes"
 categories: ["Training"]

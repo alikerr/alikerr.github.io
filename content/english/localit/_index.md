@@ -1,6 +1,7 @@
 ---
 weight: 8000
 title: "Local IT Resources"
+linktitle: "Local IT"
 description: "Local IT Resources."
 titleIcon: "fa-solid fa-house-chimney"
 categories: ["Information"]
